@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 checking conflict and merge together
 ok`
+checking file visibilty in other branches before add and commit
+moreover this file created in branch1
+ok
+>>>>>>> branch1
